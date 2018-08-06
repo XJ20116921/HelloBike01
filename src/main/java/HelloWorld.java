@@ -5,6 +5,5 @@ public class HelloWorld {
         System.out.println("我们都是好孩子 呀呀呀");
         System.out.println("Hello Git 哈哈哈");
 
-
     }
 }
